@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![The author](assets/profile.jpg "The author")
+!(assets/profile.jpg "The author")
 
 [*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist with resesearch interests in pollution science, and a graduate of [the University of Rhode Island](https://uri.edu/) The scope of the writings on this site will go beyond that single area, and venture further into biology, chemistry, and history.
 
