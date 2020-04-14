@@ -10,7 +10,7 @@ Where relevant, additional information will be appended to the article in the fo
 
 I don't have a specific timeframe for writing articles; time between posts could vary from a week to several weeks. The homepage lists posts by publication date - the first listed post will always be the most recent. If you want to organize articles by subject, please visit [this page](https://0evv.github.io/tags/). The subject of an article depends on what I'm interested in at that time, and browsing by tags gives the reader who is only interested in, for example, chemistry, a way to do so.
 
-If you are from Rhode Island, I am also the founder of an environmental advocacy organization, [Green Action Rhode Island](https://greenactionri.github.io) [^1]. We are interested in promoting a greener, healthier environment for Rhode Island, and endevour to do so by calling attention to "action spots," where litter, dumping, and runoff have the most serious ecological consequences to the State's ecosphere [^2]. Please visit that site to learn more about our efforts to clean our State up through citizen action.
+If you are from Rhode Island, I am also the founder of an environmental advocacy organization, [Green Action Rhode Island](https://greenactionri.github.io) [^1]. We are interested in promoting a greener, healthier environment for Rhode Island, and endeavor to do so by calling attention to "action spots," where litter, dumping, and runoff have the most serious ecological consequences to the State's ecosphere [^2]. Please visit that site to learn more about our efforts to clean our State up through citizen action.
 
 Happy reading,
 
