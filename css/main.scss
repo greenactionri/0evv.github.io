@@ -3,9 +3,9 @@
 ---
 // Customization Variables
 
-$accent: #FF0F00;
+$accent: #69a1d6;
 
-$max-width: 740px;
+$max-width: 800px;
 $med-width: 600px;
 $small-width: 480px;
 
@@ -13,8 +13,8 @@ $small-width: 480px;
 
 body {
     margin: 0;
-    font-family: "Inconsolata";
-    background-color: #FFFFDD;
+    font-family: "Garamond";
+    background-color: #d3dbeb;
     min-height: 100%;
 }
 a {
@@ -30,8 +30,8 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 code {
-    background-color: #d8e7ff;
-    color: #002b72;
+    background-color: #ccd2d9;
+    color: #000000;
 }
 
 // divs
