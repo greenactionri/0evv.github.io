@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist, and a graduate of [the University of Rhode Island](https://uri.edu/) with resesearch interests in pollution science. The scope of the writings on this site will go beyond that single area, and venture further into biology, chemistry, and history.
+[*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist with resesearch interests in pollution science, and a graduate of [the University of Rhode Island](https://uri.edu/) The scope of the writings on this site will go beyond that single area, and venture further into biology, chemistry, and history.
 
 The writings contained herein seek to be well-researched, accessible, and factually accurate - it is hoped that the reader will appreciate them as they were written, as an outlet for creativity and knowledge-gaining. The name "twelfth key" is a reference to the twelve keys of the Philosopher's stone, with the twelfth key allowing the alchemist, with knowledge of its use, to "compose the Stone" and turn lead into gold.
 
@@ -10,6 +10,11 @@ Where relevant, additional information will be appended to the article in the fo
 
 I don't have a specific timeframe for writing articles; time between posts could vary from a week to several weeks. The homepage lists posts by publication date - the first listed post will always be the most recent. If you want to organize articles by subject, please visit [this page](https://0evv.github.io/tags/). The subject of an article depends on what I'm interested in at that time, and browsing by tags gives the reader who is only interested in, for example, chemistry, a way to do so.
 
+If you are from Rhode Island, I am also the founder of an environmental advocacy organization, [Green Action Rhode Island](https://greenactionri.github.io) [^1]. We are interested in promoting a greener, healthier environment for Rhode Island, and endevour to do so by calling attention to "action spots," where litter, dumping, and runoff have the most serious ecological consequences to the State's ecosphere [^2]. Please visit that site to learn more about our efforts to clean our State up through citizen action.
+
 Happy reading,
 
 E.V.
+
+[^1]: As of 14 April 2020, the site is under construction and is offline. G.A.R.I. expects the site to return online within the next month.
+[^2]: Currently, G.A.R.I. is looking at different A.P.I.'s to integrate on its website, which will allow users to identify their own action spots on a community map. The G.A.R.I. network hopes to use a tool like this to efficiently highlight trouble areas and organize relief efforts. Current identification is a observer-to-coordinator method, whereby observers are disconnected from each other and the coordinators are responsible for alerting the network.
