@@ -17,4 +17,4 @@ Happy reading,
 E.V.
 
 [^1]: As of 14 April 2020, the site is under construction and is offline. G.A.R.I. expects the site to return online within the next month.
-[^2]: Currently, G.A.R.I. is looking at different A.P.I.'s to integrate on its website, which will allow users to identify their own action spots on a community map. The G.A.R.I. network hopes to use a tool like this to efficiently highlight trouble areas and organize relief efforts. Current identification is a observer-to-coordinator method, whereby observers are disconnected from each other and the coordinators are responsible for alerting the network.
+[^2]: Currently, G.A.R.I. is looking at different A.P.I.'s to integrate into its website, which will allow users to identify their own action spots on a community map. The G.A.R.I. network hopes to use a tool like this to efficiently highlight trouble areas and organize relief efforts. Current identification is a observer-to-coordinator method, whereby observers are disconnected from each other and the coordinators are responsible for alerting the network.
