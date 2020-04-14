@@ -1,10 +1,16 @@
 ---
 layout: post
 author: Elliot Vosburgh
-title: Grœnland, or The Lost Settlements
+title: Til Fremmed Land, or The Lost Settlements
 ---
-
-### *Grœnland*, or The Lost Settlements
+*Hafa kváðu mig meiðar
+málmþings, er kom eg hingað,
+mér samir láð fyr lýðum
+lasta, drykk hinn basta.
+Bílds hattar verðr byttu
+beiði-Týr að reiða.
+Heldr er svo að eg krýp að keldu,
+komat vín á grön mína.*
 
 >   Eirik's thralls cause a landslip on the estate of Valthjof, at  Valthjofsstadr. Eyjolf the Foul, his kinsman, slew the thralls beside Skeidsbrekkur. ... In return Eirik slew Eyjolf the Foul; he slew also Hrafn the Dueller, at Leikskalar. Gerstein, and Odd of Jorfi, kinsman of Eyjolf, were found willing to  follow up his death by a legal prosecution; and then was Eirik banished  from Haukadalr.
 >
