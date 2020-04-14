@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Self-portrait of the author by Tarbox Pond, West Greenwich, R.I.](assets/profile.jpg){:height="20%" width="20%"}
+![Self-portrait of the author by Tarbox Pond, West Greenwich, R.I.](assets/profile.jpg){:height="30%" width="30%" .center-image}
 
 [*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist with resesearch interests in pollution science, and a graduate of [the University of Rhode Island](https://uri.edu/) The scope of the writings on this site will go beyond that single area, and venture further into biology, chemistry, and history.
 
