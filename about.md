@@ -4,7 +4,7 @@ layout: default
 
 <img src="/assets/profile.jpg" alt="The author" width="150" align="left" style="border:1px solid black"/>
 
-<img src="/assets/20200319_180716.jpg" alt="A scene in nature" width="500" align="center" style="border:1px solid black"/>
+<img src="/assets/20200319_180716.jpg" alt="A scene in nature" width="450" align="center" style="border:1px solid black"/>
 
 
 [*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist with resesearch interests in pollution science, and a graduate of [the University of Rhode Island](https://uri.edu/) The scope of the writings on this site will go beyond that single area, and venture further into biology, chemistry, and history.
