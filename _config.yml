@@ -4,7 +4,7 @@ author: Elliot Vosburgh
 url: "https://0evv.github.io"
 baseurl: "/"
 
-footer_only_homepage: false
+#footer_only_homepage: true
 footer_url: "https://0evv.github.io"
 footer_text: "twelfth key // writings on science and history"
 
