@@ -5,6 +5,8 @@ title: Til Fremmed Land, or The Lost Settlements
 tags: [history]
 ---
 
+<img src="assets/eric-the-red.png" alt="Eric the Red" class="inline"/>
+
 >   Eirik's thralls caused a landslip on the estate of Valthjof, at  Valthjofsstadr. Eyjolf the Foul, his kinsman, slew the thralls beside Skeidsbrekkur. ... In return Eirik slew Eyjolf the Foul; he slew also Hrafn the Dueller, at Leikskalar. Gerstein, and Odd of Jorfi, kinsman of Eyjolf, were found willing to  follow up his death by a legal prosecution; and then was Eirik banished  from Haukadalr.
 >
 >   Eirik and his people were outlawed at *Þórsnes-Thing*. He prepared a ship in Eiriksvagr [lit. Eirik's Bay], and Eyjolf concealed him in Dimunarvagr while Thorgest and his people sought him among the islands. Eirik said to his people that he purposed to seek for the land which  Gunnbjorn, the son of Ulf the Crow, saw when he was driven westwards  over the ocean, and discovered Gunnbjarnarsker [lit. Gunnbjorn's skerries].
