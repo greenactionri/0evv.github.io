@@ -5,7 +5,7 @@ title: Til Fremmed Land, or The Lost Settlements
 tags: [history]
 ---
 
-![Eric the Red](assets/eric-the-red.png){:width="300px"}
+![Eric the Red](assets/eric-the-red.png)
 
 >   Eirik's thralls caused a landslip on the estate of Valthjof, at  Valthjofsstadr. Eyjolf the Foul, his kinsman, slew the thralls beside Skeidsbrekkur. ... In return Eirik slew Eyjolf the Foul; he slew also Hrafn the Dueller, at Leikskalar. Gerstein, and Odd of Jorfi, kinsman of Eyjolf, were found willing to  follow up his death by a legal prosecution; and then was Eirik banished  from Haukadalr.
 >
