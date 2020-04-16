@@ -15,11 +15,11 @@ To better understand the phenomenon of sleep in these animals, studies must reco
 
 In his 1975 paper, Meddis described two theories on the function of sleep in animals: first, referenced as the “recuperation theory,” states “that sleep serves the function of physiological recuperation;” whereas his “immobilization” theory states that sleep exists only to immobilize the organism and ensure that recuperation through rest can be obtained (Meddis 1975). Our knowledge on the usefulness of sleep has developed significantly since 1975, yet these two theories still serve as the baselines for many arguments on the selective pressures of sleep.
 
+<img src="/assets/16april2020/1285937237_82a5db4415_b.jpg" alt="C. fleckeri" width="200" align="left" style="border:1px solid black"/>
+
 To understand the origins of rest-states in *Medusozoa*, one must first understand the anatomy governing their behavior. Jellyfish have primitive nerve nets composed of neurons. Connected to the nerve net are the various sensory structures of the organism, whose amount and type vary greatly between classes. These structures may detect light, chemicals, flow, and orientation depending on how derived the species is.
 
 Subscribing to this theory of immobilization, it can be postulated that sleep is an involuntary response in *Medusozoa*, allowing the organism to automatically conserve energy and undergo biological processes which may be hindered or impossible to perform during waking periods. Some of the classes within this subphylum [e.g. *Cubomedusae*] have complex visual structures which demand high amounts of energy. Kavanau 2006 suggests that because predation in these types of jellyfish requires such high amounts of energy, “non-urgent processes” unrelated to food capture were relegated to a rest-state; in a word, he suggests the selective pressure for sleep was efficiency.
-
-<img src="/assets/16april2020/1285937237_82a5db4415_b.jpg" alt="C. fleckeri" width="200" align="left" style="border:1px solid black"/>
 
 In the same paper, Kavanau discusses jellyfish sleep in relation to evolution. The author is in agreement with Kavanau when he says that sleep must ultimately have evolved successively from simpler parts - as with any biological feature, behavioral or physical, various pressures acted on increasingly derived forms of the trait to give the present form. Similarly, the characteristic nerve net of *Medusozoa* must have evolved from more primitive parts; a system of neurons must come from a single neuron, and a single neuron from some precursor, etc. (Watanabe et al. 2009). For sleep, a precursor in may have been photoperiod. Retention of genes from cyanobacteria allowed early *Cnidaria* to adapt to the solar and lunar cycles, and it is this first piece which may have set their lineage on a path to rest (Hut & Beersma 2011; Hoadley et al. 2016).
 
@@ -48,3 +48,6 @@ In their study, Nath et al. exposed three groups of *Cassiopea* to 12 hours of l
 As it stands, the reasons behind sleep in *Medusozoa* remain veiled; the rest-state remains one of life’s “supreme mysteries.” However, as new tools for activity measurement and observation become available, and the knowledge of neural networks in these animals increases, a growing number of scientists will work to unravel this behavioral oddity.
 
 One must consider that the most parsimonious explanation for our own retention of sleep, as mammals, is that natural selection selected for rest-states in our invertebrate ancestors. By piecing together this puzzle of selective pressures we can better hope to understand the evolution of this behavior and its ultimate reason for existence in our lineage. At present, one of the best research subjects is *Medusozoa*, due to the age of its lineage. Continuing to study its sleep habits allows us to glimpse further into the past and demystify one of the great questions in animal behavior.
+
+
+##### Additional information
