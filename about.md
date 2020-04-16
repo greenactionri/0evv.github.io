@@ -2,9 +2,11 @@
 layout: default
 ---
 
-[*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist with resesearch interests in pollution science, and a graduate of [the University of Rhode Island](https://uri.edu/) The scope of the writings on this site will go beyond that single area, and venture further into biology, chemistry, and history.
+<img src="/assets/profile.jpg" alt="The author" width="250" align="left" style="border:1px solid black"/>
 
-<img src="/assets/profile.jpg" alt="The author" width="250" align="left" style="border:2px dotted black"/>
+![The author](/assets/profile.jpg)*The author*
+
+[*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist with resesearch interests in pollution science, and a graduate of [the University of Rhode Island](https://uri.edu/) The scope of the writings on this site will go beyond that single area, and venture further into biology, chemistry, and history.
 
 The writings contained herein seek to be well-researched, accessible, and factually accurate - it is hoped that the reader will appreciate them as they were written, as an outlet for creativity and knowledge-gaining. The name "twelfth key" is a reference to the twelve keys of the Philosopher's stone, with the twelfth key allowing the alchemist, with knowledge of its use, to "compose the Stone" and turn lead into gold [^1].
 
