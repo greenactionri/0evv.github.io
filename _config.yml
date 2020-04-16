@@ -21,3 +21,6 @@ navbar:
    link: "about"
  - name: "Subjects"
    link: "tags"
+
+plugins:
+  - jekyll-responsive-image
