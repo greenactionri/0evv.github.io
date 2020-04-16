@@ -4,12 +4,12 @@ author: Elliot Vosburgh
 tags: [biology]
 ---
 
-The nature of sleep has often been referred to as one of life’s “supreme mysteries;” the origins of rest-states, and the selective pressures driving them, remain one of the great secrets of nature (Kavanau 2006). One can easily ascribe reasons behind sleep, especially in higher level organisms: memory consolidation, muscle healing, and so on; but what of the reasons behind sleep in invertebrate animals? <img src="/assets/16april2020/Metazoan_Phylogenetic_Tree.png" alt="Phylogenetic tree of Metazoa" width="290" align="left" style="border:1px solid black"/>
+The nature of sleep has often been referred to as one of life’s “supreme mysteries;” the origins of rest-states, and the selective pressures driving them, remain one of the great secrets of nature (Kavanau 2006). One can easily ascribe reasons behind sleep, especially in higher level organisms: memory consolidation, muscle healing, and so on; but what of the reasons behind sleep in invertebrate animals? <img src="/assets/16april2020/Metazoan_Phylogenetic_Tree.png" alt="Phylogenetic tree of Metazoa" width="290" align="right" style="border:1px solid black"/>
 Would understanding those causes not help clear the fog surrounding this behavior?
 
 Despite constituting the majority of life on Earth, relatively little is understood about invertebrate sleep. Research over the last several decades has proved illuminating, with rest-states being found in both *Ecdysozoa* and *Cnidaria* (Sauer et al. 2003; Nath et al. 2017; Hoadley et al. 2016; Hut & Beersma 2011). The latter phylum represents some of the most ancient lineages of extant animals - their ancestry can be traced back 500 million years ago to the Cambrian period. *Medusozoa*, a subphylum of *Cnidaria*, has made headlines recently in several studies which documented sleep-like behaviors. Given how ancient these creatures are, their sleep may be one of life’s first, if not the earliest, to have been selected for.
 
-To better understand the phenomenon of sleep in these animals, studies must reconcile their behavior with both their ecology and their phylogenetic relationships [Note the placement of *Cnidaria* in the phylogenetic tree, on the left]. In this article, we give opinions on current research into *Medusozoan* sleep, and propose where future research may best be focused to further illuminate the topic.
+To better understand the phenomenon of sleep in these animals, studies must reconcile their behavior with both their ecology and their phylogenetic relationships [Note the placement of *Cnidaria* in the phylogenetic tree, included at right]. In this article, we give opinions on current research into *Medusozoan* sleep, and propose where future research may best be focused to further illuminate the topic.
 
 ##### The function and origins of sleep in *Medusozoa*
 
