@@ -36,7 +36,7 @@ Looking to future research, note that they are also marvelous swimmers, with som
 
 ##### *Cassiopea*: examining the need for sleep
 
-A more recent paper examined circadian cycling in the upside-down jellyfish, *Cassiopea spp*. Although still within the *Acraspeda* lineage, containing *C. fleckeri* and other classes which have rhopalia, the class containing *Cassiopea*, *Rhizostomeae*, lacks complex eyes. Ocelli are present, and this particular genus also contains zooxanthellae that contribute to the overall carbon budget of the organism (Verde & McCloskey 1998; Richards & Collins 2009).
+A more recent paper examined circadian cycling in the upside-down jellyfish, *Cassiopea spp*. Although still within the *Acraspeda* lineage, containing *C. fleckeri* and other classes which have rhopalia, the class containing *Cassiopea*, *Rhizostomeae*, lacks complex eyes. <img src="/assets/16april2020/Med_-_Cassiopea_andromeda_-_12.jpg" alt="Cassiopea spp." width="200" align="right" style="border:1px solid black"/> Ocelli are present, and this particular genus also contains zooxanthellae that contribute to the overall carbon budget of the organism (Verde & McCloskey 1998; Richards & Collins 2009).
 
 In their study, Nath et al. exposed three groups of *Cassiopea* to 12 hours of low light, followed by 12 hours of full intensity light. After this initial 24 hours each group was exposed to 36 hours of low-intensity, mid-intensity, and full-intensity light respectively. Activity levels were judged by bell-pulsation rates.
 
