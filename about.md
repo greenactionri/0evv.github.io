@@ -4,7 +4,7 @@ layout: default
 
 <img src="/assets/profile.jpg" alt="The author" width="250" align="left" style="border:1px solid black"/>
 
-![The author](/assets/profile.jpg width="250")*The author*
+![The author](/assets/profile.jpg){:width="250"}*The author*
 
 [*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist with resesearch interests in pollution science, and a graduate of [the University of Rhode Island](https://uri.edu/) The scope of the writings on this site will go beyond that single area, and venture further into biology, chemistry, and history.
 
