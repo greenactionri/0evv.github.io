@@ -21,6 +21,8 @@ Subscribing to this theory of immobilization, it can be postulated that sleep is
 
 In the same paper, Kavanau discusses jellyfish sleep in relation to evolution. The author is in agreement with Kavanau when he says that sleep must ultimately have evolved successively from simpler parts - as with any biological feature, behavioral or physical, various pressures acted on increasingly derived forms of the trait to give the present form. Similarly, the characteristic nerve net of *Medusozoa* must have evolved from more primitive parts; a system of neurons must come from a single neuron, and a single neuron from some precursor, etc. (Watanabe et al. 2009). For sleep, a precursor in may have been photoperiod. Retention of genes from cyanobacteria allowed early *Cnidaria* to adapt to the solar and lunar cycles, and it is this first piece which may have set their lineage on a path to rest (Hut & Beersma 2011; Hoadley et al. 2016).
 
+<img src="/assets/16april2020/1285937237_82a5db4415_b.jpg" alt="C. fleckeri" width="200" align="left" style="border:1px solid black"/>
+
 Taken together, if energy demanding traits and sleep compliment each other, it makes sense to suggest that they coevolved. If they coevolved, it can be postulated that as neural complexity and demands increase so too does the need for increasingly complex rest-states. The best example one can give is that of human sleep: the multiple phases undergone must be linked directly to the derived nervous system we possess. In comparison, the rest-states observed in jellyfish are simple. They can be awakened briefly and return to sleep, but there is not a definite need for sleep so long as light and food are continuously present (Nath et al. 2017; Seymour et al. 2004).
 
 ##### *C. fleckeri*: a case study
@@ -30,7 +32,6 @@ Taken together, if energy demanding traits and sleep compliment each other, it m
 In the wild, Seymour et al. observed individuals laying directly on the seafloor, completely motionless and without “bell pulsation.” They describe the jellyfish exhibiting this sleep-state for 15 continuous hours, from 3:00 PM to 6:00 AM. Movement during this period was less than 10 meters per hour, whereas movement during the day 6:00 AM to 3:00 PM was about 212 meters per hour (Seymour et al. 2004). Given *C. fleckeri*’s geographical range, from the southern coast of Thailand to the northern coast of Australia, where high island mountains provide shading, these times coincide with the sun descending in mid-afternoon and its ascent in early morning.
 
 <img src="/assets/16april2020/Chironex_fleckeri_Range_Map.png" alt="Range of C. fleckeri" width="200" align="left" style="border:1px solid black"/>
-
 
 Looking to future research, note that they are also marvelous swimmers, with some authors venturing as far as to call them “honorary fish” (Hartwick 1991; Conway Morris 2009). As Seymour et al. reported, mean waking-period speed was around 212 meters per hour, or about 1 meter per 20 seconds. Compared with other classes of jellyfish, who are less agile and whose movements are governed largely by ocean currents, cubozoans present optimal subjects for future observation of jellyfish sleep; the disparity in observed speed between waking and resting leaves little room for confusing the two activities. This species may prove useful in future wild studies.
 
