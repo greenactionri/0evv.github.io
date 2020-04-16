@@ -1,7 +1,7 @@
 ---
 title: Do Jellyfish Dream of Aquatic Sheep?
 author: Elliot Vosburgh
-tags: biology
+tags: [biology]
 ---
 
 #### Introduction
