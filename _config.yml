@@ -26,7 +26,6 @@ plugins:
   - jekyll-responsive-image
 
 responsive_image:
-  Required]
   # Path to the image template.
   template: _includes/responsive-image.html
   # Quality to use when resizing images.
