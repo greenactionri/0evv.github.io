@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/assets/20200319_180716.jpg" alt="A scene in nature" width="500" align="center" style="border:1px solid black"/>
+<img src="/assets/20200319_180716.jpg" alt="A scene in nature" width="500" align="middle" style="border:1px solid black"/>
 
 [*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist with resesearch interests in pollution science, and a graduate of [the University of Rhode Island](https://uri.edu/) The scope of the writings on this site will go beyond that single area, and venture further into biology, chemistry, and history.
 
@@ -14,7 +14,7 @@ Where relevant, additional information will be appended to the article in the fo
 
 I don't have a specific timeframe for writing articles; time between posts could vary from a week to several weeks. The homepage lists posts by publication date - the first listed post will always be the most recent. If you want to organize articles by subject, please visit [this page](https://0evv.github.io/tags/). The subject of an article depends on what I'm interested in at that time, and browsing by tags gives the reader who is only interested in, for example, chemistry, a way to do so.
 
-<img src="/assets/20200322_174253.jpg" alt="Closeup" width="250" align="right" style="border:1px solid black"/>
+<img src="/assets/20200322_174253.jpg" alt="Closeup" width="250" height="300" align="right" style="border:1px solid black"/>
 
 I am the founder of an environmental advocacy organization, [Green Action Rhode Island](https://greenactionri.github.io) (G.A.R.I.) [^2]. We are interested in promoting a greener, healthier future for Rhode Island, and endeavor to do so by calling attention to "action spots," where litter, dumping, and runoff have the most serious ecological consequences to the State's ecosphere. Please visit that site to learn more about our efforts to clean our State up through citizen action.
 
