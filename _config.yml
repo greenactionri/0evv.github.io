@@ -30,7 +30,7 @@ responsive_image:
   # Path to the image template.
   template: _includes/responsive-image.html #THIS ONE# [Optional, Default: 85]
   # Quality to use when resizing images.
-  default_quality: 90# [Optional, Default: []]
+  default_quality: 90
   # An array of resize configuration objects. Each object must contain at least
   # a `width` value.
   sizes:
