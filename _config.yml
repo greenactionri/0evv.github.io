@@ -18,6 +18,6 @@ sass:
 
 navbar:
  - name: "Subjects"
-   absolute-link: "https://www.0evv.github.io/tags"
+   absolute-link: "https://0evv.github.io/tags"
  - name: "About"
    link: "about"
