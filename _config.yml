@@ -17,15 +17,7 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "Biology"
-   absolute-link: "https://0evv.github.io/tags/#biology"
- - name: "Chemistry"
-   absolute-link: "https://0evv.github.io/tags/#chemistry"
- - name: "Sport"
-   absolute-link: "https://0evv.github.io/tags/#sport"
- - name: "History"
-   absolute-link: "https://0evv.github.io/tags/#history"
- - name: "Misc"
-   absolute-link: "https://0evv.github.io/tags/#misc"
+ - name: "Subjects"
+   absolute-link: "https://www.0evv.github.io/tags"
  - name: "About"
    link: "about"
