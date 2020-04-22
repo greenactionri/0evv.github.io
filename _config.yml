@@ -6,7 +6,7 @@ baseurl: "/"
 
 footer_only_homepage: true
 footer_url: "https://0evv.github.io"
-footer_text: "twelfth key // writings on science and history"
+footer_text: "twelfth key // writings of Elliot Vosburgh"
 
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.svg
@@ -17,7 +17,15 @@ sass:
     sass_dir: css
 
 navbar:
+ - name: "Biology"
+   absolute-link: "https://0evv.github.io/tags/#biology"
+ - name: "Chemistry"
+   absolute-link: "https://0evv.github.io/tags/#chemistry"
+ - name: "Sport"
+   absolute-link: "https://0evv.github.io/tags/#sport"
+ - name: "History"
+   absolute-link: "https://0evv.github.io/tags/#history"
+ - name: "Misc"
+   absolute-link: "https://0evv.github.io/tags/#misc"
  - name: "About"
    link: "about"
- - name: "Subjects"
-   link: "tags"
