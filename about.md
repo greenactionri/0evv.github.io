@@ -3,13 +3,11 @@ layout: default
 ---
 
 <img src="/assets/profile.jpg" alt="The author" width="185" align="left" style="border:1px solid black"/>
-[*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist, cyclist, and runner, and hold a B.Sc. in Biological Sciences from [the University of Rhode Island](https://uri.edu/). On this site the reader will find articles on different topics in biology, chemistry, sport science, and history - these are the subjects I am most passionate about, and I hope the reader will find them enjoyable. 
+[*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist, cyclist, and runner, and hold a B.Sc. in Biological Sciences from [the University of Rhode Island](https://uri.edu/). The name "twelfth key" is a reference to the twelve keys of the Philosopher's stone, with the twelfth key allowing the alchemist, with knowledge of its use, to "compose the Stone" and turn lead into gold [^1].
 
-The writings contained herein seek to be well-researched, accessible, and factually accurate - it is hoped that the reader will appreciate them as they were written, as an outlet for creativity and knowledge-gaining.
+On this site the reader will find articles on different topics in biology, chemistry, sport science, and history - these are the subjects I am most passionate about. To the best of my ability, the articles aim to be well-researched, accessible, and factually accurate - it is hoped that the reader will appreciate them as they were written, as an outlet for creativity and knowledge-gaining.
 
-The name "twelfth key" is a reference to the twelve keys of the Philosopher's stone, with the twelfth key allowing the alchemist, with knowledge of its use, to "compose the Stone" and turn lead into gold [^1].
-
-I am the founder of an environmental advocacy organization, [Green Action Rhode Island](https://greenactionri.github.io) (G.A.R.I.) [^2]. Please visit that site to learn more about our efforts to clean up Rhode Island through citizen action.
+I am also the founder of an environmental advocacy organization, [Green Action Rhode Island](https://greenactionri.github.io) (G.A.R.I.) [^2]. Please visit that site to learn more about our efforts to clean up Rhode Island through citizen action.
 
 Happy reading,
 
