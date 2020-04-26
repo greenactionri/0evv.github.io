@@ -3,7 +3,7 @@
 ---
 // Customization Variables
 
-$accent: #195ba8;
+$accent: #0099e5;
 
 $max-width: 875px;
 $med-width: 600px;
@@ -14,7 +14,7 @@ $small-width: 480px;
 body {
     margin: 0;
     font-family: "Garamond";
-    background-color: #d3dbeb;
+    background-color: #f4f8fe;
     min-height: 100%;
 }
 a {
@@ -23,6 +23,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #000
 }
 hr {
     margin: 5px;
