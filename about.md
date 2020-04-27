@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div style="text-align:center"><img src="/assets/about/20200322_173952.jpg" alt="Late afternoon" width="300px" style="border:1px solid black"><img src="/assets/about/20200315_172041.jpg" alt="Elliot Vosburgh, the author" height="139px" style="border:1px solid black"></div>
+<div style="text-align:center"><img src="/assets/about/20200322_173952.jpg" alt="Late afternoon" width="480px" style="border:1px solid black"><img src="/assets/profile.jpg" alt="Elliot Vosburgh, the author" height="222px" style="border:1px solid black"></div>
 
 [*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist, cyclist, and runner, and hold a B.Sc. in Biological Sciences. I am also the founder of an environmental advocacy organization, [Green Action Rhode Island](https://greenactionri.github.io)[^1].
 
