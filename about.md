@@ -1,16 +1,15 @@
 ---
 layout: default
 ---
-<img src="/assets/profile.jpg" alt="The author" width="160" align="left" style="border:1px solid black"/>
-[*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist, cyclist, and runner, and hold a B.Sc. in Biological Sciences from [the University of Rhode Island](https://uri.edu/). I am also the founder of an environmental advocacy organization, [Green Action Rhode Island](https://greenactionri.github.io)[^1].
 
-On this site the reader will find articles on different topics in biology, chemistry, sport science, and history - these are the subjects I am most passionate about. To the best of my ability, the articles aim to be well-researched, accessible, and factually accurate.
+[*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist, cyclist, and runner, and hold a B.Sc. in Biological Sciences. I am also the founder of an environmental advocacy organization, [Green Action Rhode Island](https://greenactionri.github.io)[^1].
+
+Apart from my interests in the sciences, which include, but are not limited to, natural products, ecology, and environmental science; I am very interested in education and the process of learning. My intention in writing the articles found here is twofold: to educate the reader on the topic, and, with just as much importance, to educate myself. To the best of my ability, the articles aim to be well-researched, accessible, and factually accurate; each scientific article aims to be a single, cohesive work, knitting together the data and conclusions of multiple studies to create a more complete picture of the topic at hand.
+
+Apart from these formal works, the reader can find additional, opinion-based articles under the tag "musings." Writings under that heading will be on topics outside of the sciences.
 
 Happy reading,
 
 E.V.
-
-
-
 
 [^1]: As of 14 April 2020, the site is under construction and has been temporarily taken offline. We anticipate a launch of the site shortly.
