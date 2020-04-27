@@ -1,7 +1,12 @@
 <div class="footer">
     {% if page.url == "/" and site.footer_only_homepage %}
         <hr>
-        <a href="{{ site.footer_url }}">{{ site.footer_text }}</a>
+        <p>Page loaded: <span id="datetime"></span></p>
+        <script>
+        var dt = new Date();
+        document.getElementById("datetime").innerHTML = dt.toLocaleString();
+        </script>
+        <!-- <a href="{{ site.footer_url }}">{{ site.footer_text }}</a> -->
     {% else %}
         <br>
     {% endif %}
