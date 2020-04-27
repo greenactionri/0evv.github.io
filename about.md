@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/assets/about/20200322_173952.jpg" alt="Late afternoon" width="480px">
+<div style="text-align:center"><img src="/assets/about/20200322_173952.jpg" alt="Late afternoon" width="480px"></div>.
 
 [*twelfth key*](https://0evv.github.io) is my personal website. I am a biologist, cyclist, and runner, and hold a B.Sc. in Biological Sciences. I am also the founder of an environmental advocacy organization, [Green Action Rhode Island](https://greenactionri.github.io)[^1].
 
