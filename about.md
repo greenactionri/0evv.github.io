@@ -8,6 +8,7 @@ Apart from my interests in the sciences, which include, but are not limited to, 
 Apart from these formal works, the reader can find additional, off-topic articles under the tag "musings." Writings under that heading will usually be about things outside of the sciences, though I may sneak one science-related piece in from time to time. This site will never contain political messages, which I hope the reader will appreciate. There are few places on the Web where one can read something without the author's own political bias entering into the dialogue, and this is one such place.
 
 Happy reading,
+
 E.V.
 
 [^1]: As of 14 April 2020, the site is under construction and has been temporarily taken offline. We anticipate a launch of the site shortly.
